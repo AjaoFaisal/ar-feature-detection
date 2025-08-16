@@ -63,7 +63,7 @@ ar-feature-detection/
 ---
 
 ## 🧠 Tech Stack
-- Python 3.x
+- Python 3.11.5
 - OpenCV
 - NumPy
 
