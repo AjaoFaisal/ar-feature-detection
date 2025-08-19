@@ -17,7 +17,7 @@ This project implements an augmented reality feature detection system using Pyth
 
 ```bash
 # Clone the repository
-git clone https://github.com/AjaoFaisal/ar-feature-detection.git
+git clone https://github.com/faisal-ajao/ar-feature-detection.git
 cd ar-feature-detection
 
 # Create a virtual environment (optional)
