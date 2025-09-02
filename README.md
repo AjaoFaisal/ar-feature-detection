@@ -1,10 +1,10 @@
-# 🕹️ AR Feature Detection
+# AR Feature Detection
 
 This project implements an augmented reality feature detection system using Python and OpenCV. It detects features in a reference image, tracks them in a video or webcam feed, and overlays another video onto the detected area.
 
 ---
 
-## 🚀 Features
+## Features
 - Real-time ORB feature detection.
 - Video overlay onto detected objects.
 - Stacks multiple debug frames for visualization.
@@ -13,7 +13,7 @@ This project implements an augmented reality feature detection system using Pyth
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 # Clone the repository
@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Usage
+## Usage
 
 ### Main AR Detection
 Run:
@@ -43,12 +43,12 @@ python main.py
 
 ---
 
-## 📊 Output Example (Video)
+## Output Example (Video)
 [![Watch the output](https://img.youtube.com/vi/X3BaIABf8zM/hqdefault.jpg)](https://youtu.be/X3BaIABf8zM?feature=shared)
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 ar-feature-detection/
 ├── cards.png              # Reference image for AR detection
@@ -62,14 +62,14 @@ ar-feature-detection/
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 - Python 3.11.5
 - OpenCV
 - NumPy
 
 ---
 
-## 📜 License
+## License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
 ## Install dependencies
